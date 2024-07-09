@@ -33,6 +33,12 @@ en: &DEFAULT_EN
       - title: "Training"
         desc: "Your description here, full **Markdown** support"
         icon: fas fa-shapes
+      - title: "System Enhancements"
+        desc: "Your description here, full **Markdown** support"
+        icon: fas fa-shapes
+      - title: "Upgrades"
+        desc: "Your description here, full **Markdown** support"
+        icon: fas fa-shapes
 
   portfolio:
     title: "Portfolio"
@@ -42,29 +48,29 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "We are not just a consultancy; we are your partners in growth. Together, we will navigate the complexities of Dynamics 365, transforming your business processes and unlocking new opportunities for success. Join us on this journey, and let's build a brighter future for your business."
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Formation of the Dynamics 365 Development Team"
+        year: "2016"
+        desc: "Group of Dynamics 365 developers come together to form a team."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Formation of TerrAtom"
+        year: "2018"
+        desc: "Establishment of the company with a focused vision on Dynamics 365 and Salesforce consultancy."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Launch of Global Market Vision"
+        year: "2024"
+        desc: "Expansion of the company's mission to provide consultancy services worldwide."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Launch of TerrAtom International"
+        year: "2024"
+        desc: "Strengthening the company's presence and collaboration on an international scale to serve partners and clients around the world."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
@@ -74,7 +80,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "Our Dynamics 365 implementation process is meticulously structured to ensure a seamless transition and optimal results for your business. We begin with an in-depth consultation to understand your unique needs, followed by a comprehensive planning phase where we design a tailored solution. Our skilled team then proceeds with the development and customization of your Dynamics 365 environment. Rigorous testing and quality assurance are conducted to ensure everything runs smoothly. Finally, we provide thorough training and ongoing support to empower your team and ensure long-term success. From start to finish, our goal is to deliver a robust and efficient Dynamics 365 solution that drives your business forward."
     section: about
 
   clients:
