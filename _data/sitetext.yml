@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    text: Innovate, Integrate, Elevate
     button: Tell Me More
     buttonlink: "#services"
 
@@ -21,6 +21,9 @@ en: &DEFAULT_EN
     text: "Lorem ipsum"
     section: services
     list:
+      - title: "Consultancy"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-laptop
       - title: "Support"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-envelope-open-text #find more at https://fontawesome.com/icons
