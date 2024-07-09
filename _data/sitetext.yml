@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: Welcome to Terra!
     text: Innovate, Integrate, Elevate
     button: Tell Me More
     buttonlink: "#services"
@@ -42,7 +42,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: ""
     section: portfolio
     closebutton: "Close Project"
 
@@ -58,7 +58,7 @@ en: &DEFAULT_EN
         desc: "Group of Dynamics 365 developers come together to form a team."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Formation of TerrAtom"
+      - title: "Formation of TerraAtom"
         year: "2018"
         desc: "Establishment of the company with a focused vision on Dynamics 365 and Salesforce consultancy."
         image: assets/img/timeline/2.jpg
@@ -68,7 +68,7 @@ en: &DEFAULT_EN
         desc: "Expansion of the company's mission to provide consultancy services worldwide."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Launch of TerrAtom International"
+      - title: "Launch of TerraAtom International"
         year: "2024"
         desc: "Strengthening the company's presence and collaboration on an international scale to serve partners and clients around the world."
         image: assets/img/timeline/4.jpg
@@ -80,7 +80,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Our Dynamics 365 implementation process is meticulously structured to ensure a seamless transition and optimal results for your business. We begin with an in-depth consultation to understand your unique needs, followed by a comprehensive planning phase where we design a tailored solution. Our skilled team then proceeds with the development and customization of your Dynamics 365 environment. Rigorous testing and quality assurance are conducted to ensure everything runs smoothly. Finally, we provide thorough training and ongoing support to empower your team and ensure long-term success. From start to finish, our goal is to deliver a robust and efficient Dynamics 365 solution that drives your business forward."
+    body: "At TerraAtom, we believe in the power of technology to transform businesses and drive growth. Founded in 2018, TerraAtom was born from a shared vision among a group of passionate Dynamics 365 developers who came together in 2016. Since then, we have grown into a global consultancy firm, specializing in Dynamics 365 CRM and Salesforce solutions."
     section: about
 
   clients:
@@ -103,8 +103,8 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: ""
+    subtext: ""
     section: team
     people:
       - name: "Baibhav Baidya"
