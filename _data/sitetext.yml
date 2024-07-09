@@ -18,26 +18,26 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: ""
     section: services
     list:
       - title: "Consultancy"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Expert consultancy to help businesses leverage Dynamics 365 for enhanced customer relationship management."
         icon: fas fa-laptop
       - title: "Support"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Providing continuous support, regular maintenance, and performance optimization to ensure smooth operation and efficiency of CRM systems."
         icon: fas fa-envelope-open-text #find more at https://fontawesome.com/icons
       - title: "Implementation"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Implementing new features, custom development, third-party integration, data migration, system optimization, and scalability solutions to enhance CRM capabilities and performance."
         icon: fas fa-laptop
       - title: "Training"
-        desc: "Your description here, full **Markdown** support"
+        desc: "Offering comprehensive end-user training, role-based training programs, system administration training, and in-depth sessions on advanced features and customization options to ensure proficiency in using and managing the CRM system."
         icon: fas fa-shapes
       - title: "System Enhancements"
-        desc: "Your description here, full **Markdown** support"
+        desc: "Introducing new capabilities, customization options, seamless integrations, data synchronization, performance improvements, and scalability planning to optimize your CRM system for enhanced business efficiency and growth."
         icon: fas fa-shapes
       - title: "Upgrades"
-        desc: "Your description here, full **Markdown** support"
+        desc: "Providing regular software updates, patch management, new functionalities, user experience enhancements, system speed optimization, and resource efficiency improvements to ensure your CRM system remains cutting-edge and efficient."
         icon: fas fa-shapes
 
   portfolio:
