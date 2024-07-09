@@ -27,7 +27,7 @@ en: &DEFAULT_EN
       - title: "Support"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-envelope-open-text #find more at https://fontawesome.com/icons
-      - title: "New Implementation"
+      - title: "Implementation"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
       - title: "Training"
