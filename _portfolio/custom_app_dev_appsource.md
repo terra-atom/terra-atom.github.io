@@ -7,7 +7,7 @@ image: [https://github.com/terra-atom/terra-atom.github.io/blob/main/screenshot.
 caption:
   title: Custom App Development for Microsoft AppSource
   subtitle: 
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: [https://github.com/terra-atom/terra-atom.github.io/blob/main/screenshot.PNG]
 ---
 
 
