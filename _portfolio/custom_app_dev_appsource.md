@@ -2,7 +2,7 @@
 title: Custom App Development for Microsoft AppSource
 subtitle: 
 alt: Keep Exploring
-image: https://place-hold.it/400x300
+image: [https://github.com/terra-atom/terra-atom.github.io/blob/main/screenshot.PNG]
 
 caption:
   title: Custom App Development for Microsoft AppSource
