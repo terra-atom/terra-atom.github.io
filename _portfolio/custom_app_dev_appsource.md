@@ -1,5 +1,5 @@
 ---
-title: Custom App Development for Microsoft AppSource
+title: PowerBI
 subtitle: 
 alt: Keep Exploring
 image: [https://github.com/terra-atom/terra-atom.github.io/blob/main/screenshot.PNG]
