@@ -9,3 +9,4 @@ gem "github-pages","~>231"
 gem "jekyll-agency", "~> 1.0"
 
 gem "webrick", "~> 1.8"
+ gem 'wdm', '>= 0.1.0'
